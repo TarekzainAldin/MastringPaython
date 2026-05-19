@@ -12,3 +12,10 @@
 
 myvar="hello from tarek "
 print(myvar)
+
+name = "Tarek Zain aldin "  # Single Word => Normal
+myName = "Tarek Zain aldin "  # Two Words => camelCase
+my_name = "Tarek Zain aldin "  # Two Words => snake_case
+print(name)
+print(myName)
+print(my_name)

@@ -50,4 +50,4 @@ print ("#" *50 )
 
 a= ('myKeyOne', 'myKeyTwo', 'myKeyThree')
 b= 'X'
-print(dict.fromkeys(a,b)) # create a new dictionary with keys from a and values from b
+print(dict.fromkeys(a,b)) # create a new dictionary with keys from a and values from bBoolean
